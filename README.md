@@ -1,4 +1,5 @@
-# 2021-fall-group-moose
+# Fall 2021: Object-Oriented Software Engineeing
+Group: mOose
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
